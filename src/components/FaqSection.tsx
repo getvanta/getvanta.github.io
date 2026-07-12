@@ -12,7 +12,7 @@ function FaqSection() {
           <span className="eyebrow flex items-center gap-2"><HelpCircle size={13} />KNOWLEDGE INFRASTRUCTURE</span>
           <h2 id="faq-heading">FREQUENTLY ASKED QUESTIONS</h2>
           <p>Everything you need to know about our hypervisor injection driver and security system layers.</p>
-          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" className="secondary-button mt-7 inline-flex">Open Discord support ticket</a>
+          <a href="https://discord.gg/" target="_blank" rel="noopener noreferrer" className="secondary-button mt-7 inline-flex">Open Discord support ticket</a>
         </div>
 
         <div className="space-y-3">
